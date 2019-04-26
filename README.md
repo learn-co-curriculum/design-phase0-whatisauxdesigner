@@ -10,4 +10,4 @@ This mini-course is designed to help you, a prospective design student:
 * Make an informed decision about which design career makes sense for you by means of a match quiz.
 
 
-<p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTNTSLW0iaUaYWFTGAEWFLI-jyOVaCBLW7jgSZw5Wsd3yXzlocPa5tN_MpdlRw9ba6cTqIl1qkOBafY/embed?start=false&amp;loop=false&amp;delayms=3000" width="960" height="569" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen"></iframe></p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTNTSLW0iaUaYWFTGAEWFLI-jyOVaCBLW7jgSZw5Wsd3yXzlocPa5tN_MpdlRw9ba6cTqIl1qkOBafY/embed?start=false&amp;loop=false&amp;delayms=3000" width="960" height="569" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen"></iframe>

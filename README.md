@@ -9,7 +9,7 @@ Design is all of the above, plus more. For the untrained eye, design can be a tr
 If there's anything bad design can teach us, it's that every product, service and experience in this world should be built around the user. Good design takes into account user behavior and needs/preferences, all possible scenarios of use and the needs of the business selling the item or experience. Good design ensures successful user experiences, better brand platforms and less wasted time and money on product features that nobody needs or wants.
 
 
-**(https://medium.com/bridge-collection/https-medium-com-vanlancker-a-designers-guide-to-working-in-tech-2153ffe46e81 "A Designer's Guide to Working in Tech")**
+**[A Designer's Guide to Working in Tech]**(https://medium.com/bridge-collection/https-medium-com-vanlancker-a-designers-guide-to-working-in-tech-2153ffe46e81 "A Designer's Guide to Working in Tech")
 by Willem Van Lancker (Links to an external site.) of Thrive Capital. (Links to an external site.) (26 min read)
 Many of us who trained as graphic or industrial designers could never have envisioned a career in technology — and then suddenly, given the rare combination of timing, opportunity, and market, we find ourselves thrust into an industry that we’re not just new to but is also rapidly changing how all people work. **(https://medium.com/bridge-collection/https-medium-com-vanlancker-a-designers-guide-to-working-in-tech-2153ffe46e81 "Read More")**
 

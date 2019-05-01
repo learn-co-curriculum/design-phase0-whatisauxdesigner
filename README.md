@@ -11,13 +11,10 @@ Good thing you're not actually that misguided CEO. As Warren Buffet once said, "
 
 ## Articles ##
 
-### [A Designer's Guide to Working in Tech](https://medium.com/bridge-collection/https-medium-com-vanlancker-a-designers-guide-to-working-in-tech-2153ffe46e81)
-by [Willem Van Lancker](https://www.willemvanlancker.com/) of [Thrive Capital.](https://www.thrivecap.com/) (26 min read)
-Many of us who trained as graphic or industrial designers could never have envisioned a career in technology — and then suddenly, given the rare combination of timing, opportunity, and market, we find ourselves thrust into an industry that we’re not just new to but is also rapidly changing how all people work. [Read More](https://medium.com/bridge-collection/https-medium-com-vanlancker-a-designers-guide-to-working-in-tech-2153ffe46e81)
-
-
 ### [Take it from an expert: design is more important than ever](https://www.wired.com/2015/03/take-expert-design-important-ever/)
 by [Margaret Rhodes](https://www.kaleighflynn.com/) of [Fast Company](https://www.fastcompany.com/) (5 min read) We've been saying it for a while and now John Maeda has delivered the data to prove it: Design is more integral to good business than ever before. Maeda himself is further proof of the trend; last year he left his post as president of Rhode Island School of Design to be a design partner at Kleiner Perkins Caufield & Byers. [Read more](https://www.wired.com/2015/03/take-expert-design-important-ever/)
+
+
 The Importance of Design in Business Strategy (Links to an external site.)
  by The Creative Cloud Team (Links to an external site.) of Adobe  (Links to an external site.)(5 min read)
 

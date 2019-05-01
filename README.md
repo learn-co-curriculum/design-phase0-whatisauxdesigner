@@ -1,6 +1,6 @@
 # What is Design? #
-> Good design is making something intelligible and memorable. Great design is making something memorable and meaningful.
- Dieter Rams, German industrial designer
+# > Good design is making something intelligible and memorable. Great design is making something memorable and meaningful.
+ – Dieter Rams, German industrial designer #
  
 What comes to mind when you think about design? For many people, images, typography, logos and visual design are usually at the top of the list. But what happens when you remove the visual aspects of those things? In other words, what is design without the use of a canvas or screen? Is it the functionality of the product or service? How about the delivery or marketing?
 

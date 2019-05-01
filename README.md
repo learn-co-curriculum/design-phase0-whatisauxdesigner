@@ -7,21 +7,23 @@ Design is all of the above, plus more. For the untrained eye, design can be a tr
 
 If there's anything bad design can teach us, it's that every product, service and experience in this world should be built around the user. Good design takes into account user behavior and needs/preferences, all possible scenarios of use and the needs of the business selling the item or experience. Good design ensures successful user experiences, better brand platforms and less wasted time and money on product features that nobody needs or wants.
 
-## [A Designer's Guide to Working in Tech](https://medium.com/bridge-collection/https-medium-com-vanlancker-a-designers-guide-to-working-in-tech-2153ffe46e81) ##
+## Articles ##
+
+#### [A Designer's Guide to Working in Tech](https://medium.com/bridge-collection/https-medium-com-vanlancker-a-designers-guide-to-working-in-tech-2153ffe46e81)
 by [Willem Van Lancker](https://www.willemvanlancker.com/) of [Thrive Capital.](https://www.thrivecap.com/) (26 min read)
 Many of us who trained as graphic or industrial designers could never have envisioned a career in technology — and then suddenly, given the rare combination of timing, opportunity, and market, we find ourselves thrust into an industry that we’re not just new to but is also rapidly changing how all people work. [Read More](https://medium.com/bridge-collection/https-medium-com-vanlancker-a-designers-guide-to-working-in-tech-2153ffe46e81)
 
 
-## [Design in Tech Recap](https://airbnb.design/design-in-tech-recap/) ##
+#### [Design in Tech Recap](https://airbnb.design/design-in-tech-recap/) 
 by [John Maeda](https://www.linkedin.com/in/johnmaeda) of [Maeda Studio.](https://maedastudio.com/)(8 min read)
 Airbnb Design recently co-hosted John Maeda‘s “Design in Tech” report in partnership with the venture capital firm Kleiner Perkins Caufield & Byers. As a design-founded company, we feel the impact that design decisions have on the technology we use daily, and believe in supporting initiatives that acknowledge how design is changing the way we live and work. [Read More](https://airbnb.design/design-in-tech-recap/)
 
 ## Videos ##
 
-#### [Video: What is design? More than 'making things pretty.](https://www.youtube.com/watch?v=6zno_CC26lc) ####
+#### [What is design? More than 'making things pretty.](https://www.youtube.com/watch?v=6zno_CC26lc)
 (3 min)
 
-##### [Video: How design solves problems.](https://www.youtube.com/watch?v=wOrmr5kT-48)
+#### [How design solves problems.](https://www.youtube.com/watch?v=wOrmr5kT-48)
 (5 min)
 
 Video: What is Design? by italiaDesign (6 min)

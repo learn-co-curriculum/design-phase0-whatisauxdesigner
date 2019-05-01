@@ -22,7 +22,9 @@ Airbnb Design recently co-hosted John Maeda‘s “Design in Tech” report in p
 ## Videos ##
 
 ### [What is design? More than 'making things pretty.](https://www.youtube.com/watch?v=6zno_CC26lc)
-(3 min)
+(3 min) A design chat video on why design is more than just making things look pretty. 
+
+
 
 ### [How design solves problems.](https://www.youtube.com/watch?v=wOrmr5kT-48)
 (5 min)
@@ -31,10 +33,10 @@ Video (6 min)
 What is Design? by italiaDesign
 
 
-(2 min)
+
 ### [Design for Humans](https://vimeo.com/179726283)
 <a href="https://vimeo.com/179726283"><img src="https://i.vimeocdn.com/video/587873014.webp?mw=960&amp;mh=540" width="300" />
- 
+(2 min) Every year we ask architects and designers this one question: What is design? The result is a compilation of thoughts and interpretations of the word ‘design’ and its role in the world.
  
 <ul>
 <li><strong>Video: </strong><a class="" href="https://www.youtube.com/watch?v=6zno_CC26lc" target="_blank" rel="noopener">What is design? More than 'making things pretty.</a><span style="font-size: 10pt; color: #808080;"> (3 min)<br /><br /></span></li>

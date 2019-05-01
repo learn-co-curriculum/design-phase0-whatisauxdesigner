@@ -27,7 +27,7 @@ Airbnb Design recently co-hosted John Maeda‘s “Design in Tech” report in p
 
 <a href="https://www.youtube.com/watch?v=wOrmr5kT-48"><img src="https://i.vimeocdn.com/video/587873014.webp?mw=960&amp;mh=540" width="300"></a>
 #### [How design solves problems.](https://www.youtube.com/watch?v=wOrmr5kT-48)
-<br>(5 min) The design process for problem-solving, in 4 steps.
+(5 min) The design process for problem-solving, in 4 steps.
 
 
 ### [What is Design? by italiaDesign](https://vimeo.com/179726283)

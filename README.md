@@ -15,4 +15,4 @@ Many of us who trained as graphic or industrial designers could never have envis
 
 ## [Design in Tech Recap](https://airbnb.design/design-in-tech-recap/) ##
 by [John Maeda](https://www.linkedin.com/in/johnmaeda) of [Maeda Studio.](https://maedastudio.com/)(8 min read)
-Airbnb Design recently co-hosted John Maeda‘s “Design in Tech” report in partnership with the venture capital firm Kleiner Perkins Caufield & Byers. As a design-founded company, we feel the impact that design decisions have on the technology we use daily, and believe in supporting initiatives that acknowledge how design is changing the way we live and work. Read More
+Airbnb Design recently co-hosted John Maeda‘s “Design in Tech” report in partnership with the venture capital firm Kleiner Perkins Caufield & Byers. As a design-founded company, we feel the impact that design decisions have on the technology we use daily, and believe in supporting initiatives that acknowledge how design is changing the way we live and work. [Read More](https://airbnb.design/design-in-tech-recap/)

@@ -1,6 +1,6 @@
 # What is Design? #
 > ## Good design is making something intelligible and memorable. Great design is making something memorable and meaningful.
- – Dieter Rams, German industrial designer ##
+ – Dieter Rams, German industrial designer 
  
 What comes to mind when you think about design? For many people, images, typography, logos and visual design are usually at the top of the list. But what happens when you remove the visual aspects of those things? In other words, what is design without the use of a canvas or screen? Is it the functionality of the product or service? How about the delivery or marketing?
 
@@ -16,3 +16,20 @@ Many of us who trained as graphic or industrial designers could never have envis
 ## [Design in Tech Recap](https://airbnb.design/design-in-tech-recap/) ##
 by [John Maeda](https://www.linkedin.com/in/johnmaeda) of [Maeda Studio.](https://maedastudio.com/)(8 min read)
 Airbnb Design recently co-hosted John Maeda‘s “Design in Tech” report in partnership with the venture capital firm Kleiner Perkins Caufield & Byers. As a design-founded company, we feel the impact that design decisions have on the technology we use daily, and believe in supporting initiatives that acknowledge how design is changing the way we live and work. [Read More](https://airbnb.design/design-in-tech-recap/)
+
+Video: 
+[What is design? More than 'making things pretty.](href="https://www.youtube.com/watch?v=6zno_CC26lc)
+(3 min)
+
+Video: How design solves problems. (5 min)
+
+Video: What is Design? by italiaDesign (6 min)
+
+Video: Design for Humans. (2 min)
+
+<ul>
+<li><strong>Video: </strong><a class="" href="https://www.youtube.com/watch?v=6zno_CC26lc" target="_blank" rel="noopener">What is design? More than 'making things pretty.</a><span style="font-size: 10pt; color: #808080;"> (3 min)<br /><br /></span></li>
+<li><strong>Video: </strong><a class="" href="https://www.youtube.com/watch?v=wOrmr5kT-48" target="_blank" rel="noopener">How design solves problems.</a><span style="font-size: 10pt; color: #808080;"> (5 min)<br /><br /></span></li>
+<li><strong>Video: <br /></strong><a class="" href="https://vimeo.com/179726283" target="_blank" rel="noopener">What is Design? by italiaDesign</a><span style="font-size: 10pt; color: #808080;"> <br /><a href="https://vimeo.com/179726283"><img src="https://i.vimeocdn.com/video/587873014.webp?mw=960&amp;mh=540" width="144" height="81" /></a><br />(6 min)<br /><br /></span></li>
+<li><strong>Video: </strong><a class="" href="https://www.youtube.com/watch?v=9_50kJN2kyQ" target="_blank" rel="noopener">Design for Humans.</a><span style="font-size: 10pt; color: #808080;"> (2 min)</span></li>
+</ul>

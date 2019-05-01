@@ -1,12 +1,13 @@
 # What is Design? #
-> ## Good design is making something intelligible and memorable. Great design is making something memorable and meaningful.
-> – Dieter Rams, German industrial designer 
+> ## It takes twenty years to build a reputation and five minutes to ruin it.
+> – Warren Buffet, CEO of Berkshire Hathaway.
  
-What comes to mind when you think about design? For many people, images, typography, logos and visual design are usually at the top of the list. But what happens when you remove the visual aspects of those things? In other words, what is design without the use of a canvas or screen? Is it the functionality of the product or service? How about the delivery or marketing?
+Imagine you're the CEO of a company. You're sitting in your 35th-story corner office, awaiting the impending launch of your first product. You know your clever marketing will help you put up massive sales numbers, and you anticipate many investors will be interested in capitalizing on your company. OK, so maybe you cut some corners and didn't use designers in your production process, but who needs those anyways, right? 
 
-Design is all of the above, plus more. For the untrained eye, design can be a tricky thing to spot and pinpoint. That's actually a sign of good design: When a product, service or experience is designed well, the design itself is invisible. Bad design, on the other hand, sticks out like a sore thumb. In fact, you could probably create a long list of poorly designed experiences and products you've seen over the course of your lifetime. Think about it: That time the door had a handle, so you pulled instead of pushed, only to find it wouldn't budge. Or perhaps the time you made it halfway through assembling a desk only to realize your foundational pieces of particle board were upside down.
+Wrong. Your product does indeed fly off the shelves thanks to your marketing team, but once people get the product home and out of the box, they realize its poor design. Users become frustrated because the product doesn't actually solve for the problem it advertises itself to. Upset, they try to get in touch with your company, but the website lacks proper navigation and confuses them. Now, you've got hundreds of thousands of customers writing negative reviews about your company and its product. 
 
-If there's anything bad design can teach us, it's that every product, service and experience in this world should be built around the user. Good design takes into account user behavior and needs/preferences, all possible scenarios of use and the needs of the business selling the item or experience. Good design ensures successful user experiences, better brand platforms and less wasted time and money on product features that nobody needs or wants.
+Good thing you're not actually that misguided CEO. As Warren Buffet once said, "It takes 20 years to build a reputation and five minutes to ruin it." In its truest sense, design is about making complex scenarios understandable. In this day and age, users expect products, services and experiences to solve their problems. The best companies know this and will incorporate human-centered design to give users the best possible products.
+
 
 ## Articles ##
 
@@ -15,9 +16,20 @@ by [Willem Van Lancker](https://www.willemvanlancker.com/) of [Thrive Capital.](
 Many of us who trained as graphic or industrial designers could never have envisioned a career in technology — and then suddenly, given the rare combination of timing, opportunity, and market, we find ourselves thrust into an industry that we’re not just new to but is also rapidly changing how all people work. [Read More](https://medium.com/bridge-collection/https-medium-com-vanlancker-a-designers-guide-to-working-in-tech-2153ffe46e81)
 
 
-### [Design in Tech Recap](https://airbnb.design/design-in-tech-recap/) 
-by [John Maeda](https://www.linkedin.com/in/johnmaeda) of [Maeda Studio.](https://maedastudio.com/)(8 min read)
-Airbnb Design recently co-hosted John Maeda‘s “Design in Tech” report in partnership with the venture capital firm Kleiner Perkins Caufield & Byers. As a design-founded company, we feel the impact that design decisions have on the technology we use daily, and believe in supporting initiatives that acknowledge how design is changing the way we live and work. [Read More](https://airbnb.design/design-in-tech-recap/)
+### [Take it from an expert: design is more important than ever](https://www.wired.com/2015/03/take-expert-design-important-ever/)
+by [Margaret Rhodes](https://www.kaleighflynn.com/) of [Fast Company](https://www.fastcompany.com/) (5 min read) We've been saying it for a while and now John Maeda has delivered the data to prove it: Design is more integral to good business than ever before. Maeda himself is further proof of the trend; last year he left his post as president of Rhode Island School of Design to be a design partner at Kleiner Perkins Caufield & Byers. [Read more](https://www.wired.com/2015/03/take-expert-design-important-ever/)
+The Importance of Design in Business Strategy (Links to an external site.)
+ by The Creative Cloud Team (Links to an external site.) of Adobe  (Links to an external site.)(5 min read)
+
+Consumers care about aesthetics. Steve Gustavson, executive creative director at Adobe, reported during the MAX session “Making Sure Design Has a Seat at the Strategy Table” that 50 percent of companies surveyed claim that design plays a huge role in how they achieve success. Companies that focus purely on data-driven strategies, without considering how design influences consumers’ impressions, run the risk of turning people away. Read more (Links to an external site.)
+
+20 reasons good design [really] matters to your business (Links to an external site.)
+ (Links to an external site.) by Mary Stribley (15 min read)
+
+Recently, we started asking businesses how much they valued design in their workplace. And this is one of the most common answers we heard: For the challenge of perfecting a steady design flow – is it really worth it? Firstly, we’re strong believers in the notion that design in the workplace should be easy. And secondly – a thousand times yes. Read more
+
+
+
 
 ## Videos ##
 

@@ -17,8 +17,9 @@ Many of us who trained as graphic or industrial designers could never have envis
 by [John Maeda](https://www.linkedin.com/in/johnmaeda) of [Maeda Studio.](https://maedastudio.com/)(8 min read)
 Airbnb Design recently co-hosted John Maeda‘s “Design in Tech” report in partnership with the venture capital firm Kleiner Perkins Caufield & Byers. As a design-founded company, we feel the impact that design decisions have on the technology we use daily, and believe in supporting initiatives that acknowledge how design is changing the way we live and work. [Read More](https://airbnb.design/design-in-tech-recap/)
 
-Video: 
-## [What is design? More than 'making things pretty.](href="https://www.youtube.com/watch?v=6zno_CC26lc) ##
+## Videos ##
+
+### [What is design? More than 'making things pretty.](https://www.youtube.com/watch?v=6zno_CC26lc) ###
 (3 min)
 
 Video: How design solves problems. (5 min)
@@ -27,7 +28,6 @@ Video: What is Design? by italiaDesign (6 min)
 
 Video: Design for Humans. (2 min)
 
-## Videos ##
 <ul>
 <li><strong>Video: </strong><a class="" href="https://www.youtube.com/watch?v=6zno_CC26lc" target="_blank" rel="noopener">What is design? More than 'making things pretty.</a><span style="font-size: 10pt; color: #808080;"> (3 min)<br /><br /></span></li>
 <li><strong>Video: </strong><a class="" href="https://www.youtube.com/watch?v=wOrmr5kT-48" target="_blank" rel="noopener">How design solves problems.</a><span style="font-size: 10pt; color: #808080;"> (5 min)<br /><br /></span></li>

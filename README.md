@@ -25,14 +25,13 @@ Airbnb Design recently co-hosted John Maeda‘s “Design in Tech” report in p
 (3 min)A design chat video on why design is more than just making things look pretty. <br><br>
 <a href="https://www.youtube.com/watch?v=6zno_CC26lc"><img src="https://i.vimeocdn.com/video/587873014.webp?mw=960&amp;mh=540" width="300"></a>
 
-
-----
+##
 
 ### [How design solves problems.](https://www.youtube.com/watch?v=wOrmr5kT-48)
 (5 min) The design process for problem-solving, in 4 steps.<br><br>
 <a href="https://www.youtube.com/watch?v=wOrmr5kT-48"><img src="https://i.vimeocdn.com/video/587873014.webp?mw=960&amp;mh=540" width="300"></a>
 
-----
+##
 
 ### [What is Design? by italiaDesign](https://vimeo.com/179726283)
 (6 min) Every year we ask architects and designers this one question: What is design? The result is a compilation of thoughts and interpretations of the word ‘design’ and its role in the world.<br><br>
@@ -45,16 +44,3 @@ Airbnb Design recently co-hosted John Maeda‘s “Design in Tech” report in p
 <a href="https://www.youtube.com/watch?v=9_50kJN2kyQ"><img src="https://i.vimeocdn.com/video/587873014.webp?mw=960&amp;mh=540" width="300"></a>
 
 ----
- 
-<ul>
-<li><strong>Video: </strong><a class="" href="https://www.youtube.com/watch?v=6zno_CC26lc" target="_blank" rel="noopener">What is design? More than 'making things pretty.</a><span style="font-size: 10pt; color: #808080;"> (3 min)<br /><br /></span></li>
- 
-<li><strong>Video: </strong><a class="" href="https://www.youtube.com/watch?v=wOrmr5kT-48" target="_blank" rel="noopener">How design solves problems.</a><span style="font-size: 10pt; color: #808080;"> (5 min)<br /><br /></span></li>
-
-
-<li><strong>Video: <br /></strong><a class="" href="https://vimeo.com/179726283" target="_blank" rel="noopener">What is Design? by italiaDesign</a> (6min)<span style="font-size: 10pt; color: #808080;"> <br /><a href="https://vimeo.com/179726283"><img src="https://i.vimeocdn.com/video/587873014.webp?mw=960&amp;mh=540" width="144" height="81" /></a><br />(6 min)<br />
- 
- <br /></span></li>
- 
-<li><strong>Video: </strong><a class="" href="https://www.youtube.com/watch?v=9_50kJN2kyQ" target="_blank" rel="noopener">Design for Humans.</a><span style="font-size: 10pt; color: #808080;"> (2 min)</span></li>
-</ul>

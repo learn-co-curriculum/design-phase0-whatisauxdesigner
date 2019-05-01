@@ -35,7 +35,7 @@ What is Design? by italiaDesign
 
 
 ### [Design for Humans](https://vimeo.com/179726283)
-<a href="https://vimeo.com/179726283"><img src="https://i.vimeocdn.com/video/587873014.webp?mw=960&amp;mh=540" width="300">
+<a href="https://vimeo.com/179726283"><img src="https://i.vimeocdn.com/video/587873014.webp?mw=960&amp;mh=540" width="300"></a>
 <br>(2 min) Every year we ask architects and designers this one question: What is design? The result is a compilation of thoughts and interpretations of the word ‘design’ and its role in the world.
  
 <ul>

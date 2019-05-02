@@ -11,18 +11,18 @@ UX designers work closely with UI designers, UX researchers, marketers, and prod
 
 Since its growing popularity in the late 2000s, UX has been adopted by different markets. Jobs now range from generalist UX design positions to highly-specialized UX roles in larger companies. It's important to note that how a company views UX will likely dictate the job of their staff UX designers. In other words, wherever a designer works, an agency (Links to an external site.), a startup (Links to an external site.), an in-house (Links to an external site.) company or a consultancy, (Links to an external site.) will determine precisely what role they take on at that company.
 
-For example, at Airbnb (Links to an external site.), the Experience Designers are comprised of interaction, visual and service designers:
+### For example, at [Airbnb](https://www.airbnb.com/), the Experience Designers are comprised of interaction, visual and service designers:
 "What we design goes beyond the screen and impacts all aspects of our users' journey (hence the name Experience Design). Sometimes we design small adjustments to a page or flow, sometimes we’re designing wholly new product experiences. Both have a big impact. We are all hybrids and we work at all stages of the product process—from concept to launch—in collaboration with researchers, product managers and engineers. The work is challenging. It stretches us to think online and offline and embrace all cultures."
 
 — Katie Dill, UX Designer from Airbnb, 2015.
 
-Google tend to be more specialized and focus on product focused UX patterns:
+### Google tend to be more specialized and focus on product focused UX patterns:
 "[Google] UX Designers on a daily day basis design interfaces navigation models UX patterns for a lot of different apps and surfaces... I helped change the UI
 in a way that's more usable and more efficient to users..."
 
 — Sun Park, User Experience Designer from Google, 2017
 
-An 'Experience Lead' at Huge (Links to an external site.) agency research, strategizes and defines designs:
+### An 'Experience Lead' at [Huge](https://www.hugeinc.com/) agency research, strategizes and defines designs:
 Experience Leads oversee an interdisciplinary team (including Visual and Interaction Designers, Content Strategists and Copywriters, Developers and more) through research, strategy development, concepting, product definition and design.
 
 A successful Experience Lead at Huge is an innovative designer, a decisive product owner, a helpful mentor, a team player and a skilled client partner all rolled into one. Our Leads push the work through strong collaboration and challenge the team to think beyond what’s expected. This is a hands-on role: our Leads create designs, personas, site maps and whatever is needed to communicate the team's thinking. (Source: Huge Inc. job description) 

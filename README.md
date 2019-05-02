@@ -2,7 +2,11 @@
 > ## It takes twenty years to build a reputation and five minutes to ruin it.
 > – Warren Buffet, CEO of Berkshire Hathaway.
 
-``` It takes twenty years to build a reputation and five minutes to ruin it.
+
+---
+
+```
+It takes twenty years to build a reputation and five minutes to ruin it.
  – Warren Buffet, CEO of Berkshire Hathaway.
  ```
  

@@ -55,7 +55,7 @@ by [Adam Leon](https://ca.linkedin.com/in/transmitterstudios) Design & Technolog
 #
 
 ### [The Design Thinking Process.](https://www.youtube.com/watch?v=_r0VX-aU_T8)
-(4 min)Design Thinking is a 5-step process to come up with meaningful ideas that solve real problems for a particular group of people.  The process is taught in top design and business schools around the world. It has brought many businesses lots of happy customers and helped entrepreneurs from all around the world, to solve problems with innovative new solutions. <br><br>
+(4 min) Design Thinking is a 5-step process to come up with meaningful ideas that solve real problems for a particular group of people.  The process is taught in top design and business schools around the world. It has brought many businesses lots of happy customers and helped entrepreneurs from all around the world, to solve problems with innovative new solutions. <br><br>
 <a href="https://www.youtube.com/watch?v=_r0VX-aU_T8"><img src="https://img.youtube.com/vi/_r0VX-aU_T8/0.jpg" width="420"></a>
 
 #

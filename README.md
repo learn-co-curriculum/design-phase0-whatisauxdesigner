@@ -1,32 +1,55 @@
 # Why is Design Important? #
-> ## It takes twenty years to build a reputation and five minutes to ruin it.
-> – Warren Buffet, CEO of Berkshire Hathaway.
-
+> ## Design thinking is neither art nor science nor religion. It is the capacity, ultimately, for integrative thinking.
+> – Tim Brown, IDEO.
  
-Imagine you're the CEO of a company. You're sitting in your 35th-story corner office, awaiting the impending launch of your first product. You know your clever marketing will help you put up massive sales numbers, and you anticipate many investors will be interested in capitalizing on your company. OK, so maybe you cut some corners and didn't use designers in your production process, but who needs those anyways, right? 
+Design thinking is a specific way of approaching user-centered design. It was created by the Stanford D. School (Links to an external site.) and is deeply rooted in empathy and ideation. The concept behind design thinking is simple: If designers understand and take interest in the users they are designing for, their final product will be more innovative, feasible and profitable. Oftentimes, the experiences and products that leave the most lasting impressions are the ones that have been created using design thinking. While design thinking isn't a new concept, you'd be surprised by the number of companies have yet to adopt this practice.
 
-Wrong. Your product does indeed fly off the shelves thanks to your marketing team, but once people get the product home and out of the box, they realize its poor design. Users become frustrated because the product doesn't actually solve for the problem it advertises itself to. Upset, they try to get in touch with your company, but the website lacks proper navigation and confuses them. Now, you've got hundreds of thousands of customers writing negative reviews about your company and its product. 
+Design thinking is typically broken-down into a five-step iterative process:
 
-Good thing you're not actually that misguided CEO. As Warren Buffet once said, "It takes 20 years to build a reputation and five minutes to ruin it." In its truest sense, design is about making complex scenarios understandable. In this day and age, users expect products, services and experiences to solve their problems. The best companies know this and will incorporate human-centered design to give users the best possible products.
+**Step 1: Empathize
+
+Designers think carefully about their users to understand who they are. They also get a good grasp on user needs/preferences, the needs of their business and the constraints of the platform they are designing for. 
+
+**Step 2: Define
+
+Designers then define the problem they wish to solve based on user pain point research.
+
+**Step 3: Ideate
+
+In this step, designers come up with creative solutions for the identified problem. 
+
+**Step 4: Prototype
+
+Once they have a finalized solution, designers build out an initial prototype to conceptualize that solution. They then layer in more prototypes to examine features, language and content strategy.
+
+**Step 5: Test
+
+A prototype is a good start, but it needs to hold up to the final step, testing. Designers often create more iterations and refine their product until they achieve their desired results. 
+
 
 
 ## Articles ##
 
-### [Take it from an expert: design is more important than ever](https://www.wired.com/2015/03/take-expert-design-important-ever/)
-by [Margaret Rhodes](https://www.kaleighflynn.com/) of [Fast Company](https://www.fastcompany.com/) (5 min read) We've been saying it for a while and now John Maeda has delivered the data to prove it: Design is more integral to good business than ever before. Maeda himself is further proof of the trend; last year he left his post as president of Rhode Island School of Design to be a design partner at Kleiner Perkins Caufield & Byers. [Read more](https://www.wired.com/2015/03/take-expert-design-important-ever/)
+### [The Value of Design Thinking in Business](https://www.toptal.com/designers/product-design/design-thinking-business-value)
+by [James Pikover](https://www.linkedin.com/in/jamespikover) CEO of Voltage (8 min read) Great design is simple, beautiful, and easy to use. It creates a sense of purpose and place. It responds to user needs, and it just works. Aside from these characteristics, how can we know whether a design is “good”? Moreover, how can a business know whether the investment of time and money into a design was worth it? [Read more](https://www.toptal.com/designers/product-design/design-thinking-business-value)
 
+### [Design Thinking isn’t design, it’s Design Thinking](https://uxdesign.cc/design-thinking-isnt-design-it-s-design-thinking-b8a5f96f0294)
+by [Anish Joshi](https://uk.linkedin.com/in/anish-joshi-00634a1) Head of Design and Innovation at [Shell](https://www.shell.com/) (6 min read) Many people in the world and business still see ‘Design’ as that thing which makes things look good, function well, and perhaps have an emotive quality. Recently (although in reality it has been in the public arena for at least a decade now) there has been the emergence of the term, tool, discipline, and mindset, that is ‘Design Thinking’. ‘Created’ and coined by Tim Brown of IDEO, (see my other blog, [‘Dangerous Times in Design’](https://medium.com/@AnishJoshiDesign/dangerous-times-in-design-8651844b8bcd), if you want the definition/ know what it is) it was a nice power move to make; affording designers a whole new playground and application of their skills, and executives a seemingly original angle at which to approach their business problems with. Since then it has slowly gathered favor and momentum, but its use and users have constantly been changing… [Read more](https://uxdesign.cc/design-thinking-isnt-design-it-s-design-thinking-b8a5f96f0294)
 
-### [The Importance of Design in Business Strategy](https://blogs.adobe.com/creativecloud/design-is-power-the-importance-of-design-in-business-strategy/)
-by [The Creative Cloud Team](https://blogs.adobe.com/creativecloud/design-is-power-the-importance-of-design-in-business-strategy/) of [Adobe](https://www.adobe.com/)(5 min read) Consumers care about aesthetics. Steve Gustavson, executive creative director at Adobe, reported during the MAX session “Making Sure Design Has a Seat at the Strategy Table” that 50 percent of companies surveyed claim that design plays a huge role in how they achieve success. Companies that focus purely on data-driven strategies, without considering how design influences consumers’ impressions, run the risk of turning people away. [Read more](https://blogs.adobe.com/creativecloud/design-is-power-the-importance-of-design-in-business-strategy/)
- 
- 
-### [20 reasons good design really matters to your business](https://www.canva.com/learn/design-at-work/)
-by Mary Stribley (15 min read) Recently, we started asking businesses how much they valued design in their workplace. And this is one of the most common answers we heard: For the challenge of perfecting a steady design flow – is it really worth it? Firstly, we’re strong believers in the notion that design in the workplace should be easy. And secondly – a thousand times yes. [Read more](https://www.canva.com/learn/design-at-work/)
-
-
+### [Three great examples of Design Thinking in action](https://medium.com/swlh/3-great-examples-of-design-thinking-in-action-a96461538c4a) 
+by [Adam Leon](https://ca.linkedin.com/in/transmitterstudios) Design & Technology Strategist at [Transmitter Studios](https://cx.transmitterstudios.com/home)(6 min read) Design Thinking. Specific definitions vary and they all include a problem solving process that puts identifying people’s needs first using a variety of tools to achieve results. This is my favourite part. Getting the results. Too often in our industry of software and services we consider that an individual transaction is the end of an association. It shouldn’t be. Digital solutions are not one-off billboards. Iterations, experiments, observations, insights, and action drive real change and create valuable products. [Read more](https://medium.com/swlh/3-great-examples-of-design-thinking-in-action-a96461538c4a) 
 
 
 ## Videos ##
+
+It's not you. Bad doors are everywhere.
+https://www.youtube.com/watch?v=yY96hTb8WgI
+(6 min)
+watch: The Explainer: Design Thinking. (Links to an external site.) (3 min)
+watch: The Explainer: Design Thinking. (Links to an external site.) (3 min)
+watch:
+The Design Thinking Process. (
+
 
 ### [The world is poorly designed. But copying nature helps.](https://www.youtube.com/watch?v=iMtXqTmfta0)
 (5 min) Biomimicry design, explained with 99% Invisible. Hear about the Biomimicry Institute, a non-profit encouraging creators to discover how big challenges in design, engineering, and sustainability have often already been solved through 3.8 billion years of evolution on earth. We just have to go out and find them. <br><br>

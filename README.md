@@ -34,12 +34,11 @@ by Mary Stribley (15 min read) Recently, we started asking businesses how much t
 
 #
 
-### [Good design is good business.](https://www.mckinsey.com/business-functions/organization/our-insights/good-design-is-good-business)
+### [Good design is good business.](https://www.youtube.com/watch?v=q-o1PgJVaX4)
 (8 min) Kleiner Perkins Caufield & Byers design partner John Maeda talks to McKinsey’s Hugo Sarrazin about why today’s senior executives must understand design.<br><br>
-<a href="https://www.mckinsey.com/business-functions/organization/our-insights/good-design-is-good-business"><img src="https://f1.media.brightcove.com/8/1971571337001/1971571337001_4526360380001_john-maeda-1024px.jpg?pubId=1971571337001&videoId=4523510855001" width="420"></a>
+<a href="https://www.youtube.com/watch?v=q-o1PgJVaX4"><img src="https://img.youtube.com/vi/q-o1PgJVaX4/0.jpg" width="420"></a>
 
 #
-
 ### [Design 2019: Integrating Design And Business.](https://www.youtube.com/watch?v=NMJk1jjQxEE)
 (24 min) For most organizations “design” is a peripheral service or the subject of an occasional workshop. How can businesses integrate design thinking as a transformative day-to-day practice?
 <br><br>

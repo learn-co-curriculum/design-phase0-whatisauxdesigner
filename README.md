@@ -2,7 +2,7 @@
 > ## It takes twenty years to build a reputation and five minutes to ruin it.
 > – Warren Buffet, CEO of Berkshire Hathaway.
 
-``` ## It takes twenty years to build a reputation and five minutes to ruin it.
+``` It takes twenty years to build a reputation and five minutes to ruin it.
  – Warren Buffet, CEO of Berkshire Hathaway.
  ```
  
@@ -19,15 +19,12 @@ Good thing you're not actually that misguided CEO. As Warren Buffet once said, "
 by [Margaret Rhodes](https://www.kaleighflynn.com/) of [Fast Company](https://www.fastcompany.com/) (5 min read) We've been saying it for a while and now John Maeda has delivered the data to prove it: Design is more integral to good business than ever before. Maeda himself is further proof of the trend; last year he left his post as president of Rhode Island School of Design to be a design partner at Kleiner Perkins Caufield & Byers. [Read more](https://www.wired.com/2015/03/take-expert-design-important-ever/)
 
 
-The Importance of Design in Business Strategy (Links to an external site.)
- by The Creative Cloud Team (Links to an external site.) of Adobe  (Links to an external site.)(5 min read)
-
-Consumers care about aesthetics. Steve Gustavson, executive creative director at Adobe, reported during the MAX session “Making Sure Design Has a Seat at the Strategy Table” that 50 percent of companies surveyed claim that design plays a huge role in how they achieve success. Companies that focus purely on data-driven strategies, without considering how design influences consumers’ impressions, run the risk of turning people away. Read more (Links to an external site.)
-
-20 reasons good design [really] matters to your business (Links to an external site.)
- (Links to an external site.) by Mary Stribley (15 min read)
-
-Recently, we started asking businesses how much they valued design in their workplace. And this is one of the most common answers we heard: For the challenge of perfecting a steady design flow – is it really worth it? Firstly, we’re strong believers in the notion that design in the workplace should be easy. And secondly – a thousand times yes. Read more
+### [The Importance of Design in Business Strategy](https://blogs.adobe.com/creativecloud/design-is-power-the-importance-of-design-in-business-strategy/)
+by [The Creative Cloud Team](https://blogs.adobe.com/creativecloud/design-is-power-the-importance-of-design-in-business-strategy/) of [Adobe](https://www.adobe.com/)(5 min read) Consumers care about aesthetics. Steve Gustavson, executive creative director at Adobe, reported during the MAX session “Making Sure Design Has a Seat at the Strategy Table” that 50 percent of companies surveyed claim that design plays a huge role in how they achieve success. Companies that focus purely on data-driven strategies, without considering how design influences consumers’ impressions, run the risk of turning people away. [Read more](https://blogs.adobe.com/creativecloud/design-is-power-the-importance-of-design-in-business-strategy/)
+ 
+ 
+[20 reasons good design really matters to your business](https://www.canva.com/learn/design-at-work/)
+by Mary Stribley (15 min read) Recently, we started asking businesses how much they valued design in their workplace. And this is one of the most common answers we heard: For the challenge of perfecting a steady design flow – is it really worth it? Firstly, we’re strong believers in the notion that design in the workplace should be easy. And secondly – a thousand times yes. [Read more](https://www.canva.com/learn/design-at-work/)
 
 
 

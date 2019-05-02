@@ -15,12 +15,12 @@ Since its growing popularity in the late 2000s, UX has been adopted by different
 #
 
 ### For example, at [Airbnb](https://www.airbnb.com/), the Experience Designers are comprised of interaction, visual and service designers:
-> What we design goes beyond the screen and impacts all aspects of our users' journey (hence the name Experience Design). Sometimes we design small adjustments to a page or flow, sometimes we’re designing wholly new product experiences. Both have a big impact. We are all hybrids and we work at all stages of the product process—from concept to launch—in collaboration with researchers, product managers and engineers. The work is challenging. It stretches us to think online and offline and embrace all cultures." <br>— Katie Dill, UX Designer from Airbnb, 2015.
+> What we design goes beyond the screen and impacts all aspects of our users' journey (hence the name Experience Design). Sometimes we design small adjustments to a page or flow, sometimes we’re designing wholly new product experiences. Both have a big impact. We are all hybrids and we work at all stages of the product process—from concept to launch—in collaboration with researchers, product managers and engineers. The work is challenging. It stretches us to think online and offline and embrace all cultures." <br><br>— Katie Dill, UX Designer from Airbnb, 2015.
 
 #
 
 ### Google tend to be more specialized and focus on product focused UX patterns:
-> [Google] UX Designers on a daily day basis design interfaces navigation models UX patterns for a lot of different apps and surfaces... I helped change the UI in a way that's more usable and more efficient to users... <br>— Sun Park, User Experience Designer from Google, 2017
+> [Google] UX Designers on a daily day basis design interfaces navigation models UX patterns for a lot of different apps and surfaces... I helped change the UI in a way that's more usable and more efficient to users... <br><br>— Sun Park, User Experience Designer from Google, 2017
 
 #
 
@@ -38,19 +38,32 @@ Since its growing popularity in the late 2000s, UX has been adopted by different
 * collaboration (working closely with developers and visual designers to execute designs)
 * analytics (tracking results)
 
+## UX Student Interviews ## 
 
+To get a better sense of UX design as it relates to the program at Flatiron School (powered by Designation), read a few interviews from our alumni:
+<ul>
+<li><span style="font-size: 14pt;"><a href="https://designation.io/blog/qui-dixon"><em>From banking to UX design.</em></a></span><span style="font-size: 10pt; color: #808080;"> by </span><a href="https://www.quidixon.com/"> Qui Dixon, Basil cohort</a> of <em><a href="https://www.bswift.com/">BSwift. </a></em>(5 min read)</li>
+<li><span style="font-size: 14pt;"><a href="https://designation.io/blog/kyle-howard"><em>Former video editor to turned UX designer.</em></a></span><span style="font-size: 10pt; color: #808080;"> by </span><a href="http://kylehoward.design/"> Kyle Howard, Yucca cohort</a> of <em><a href="https://www.bose.com/en_us/index.html">Bose. </a></em>(5 min read)</li>
+<li><span style="font-size: 14pt;"><a href="https://designation.io/blog/interview-with-anabelle-zee"><em>Coffee meets UX design.</em></a></span><span style="font-size: 10pt; color: #808080;"> by </span><a href="http://anabellezee.com/"> Anabelle Zee, Obsidian cohort</a> of <em><a href="https://www.pandora.com/">Pandora.</a> </em>(5 min read)</li>
+</ul>
 
 
 ## Articles ##
 
-### [The Value of Design Thinking in Business](https://www.toptal.com/designers/product-design/design-thinking-business-value)
-by [James Pikover](https://www.linkedin.com/in/jamespikover) CEO of Voltage (8 min read) Great design is simple, beautiful, and easy to use. It creates a sense of purpose and place. It responds to user needs, and it just works. Aside from these characteristics, how can we know whether a design is “good”? Moreover, how can a business know whether the investment of time and money into a design was worth it? [Read more](https://www.toptal.com/designers/product-design/design-thinking-business-value)
+Explaining UX design to my sister (Links to an external site.)
+by  (Links to an external site.) Kaleigh Flynn (Links to an external site.) of Microsoft  (Links to an external site.)(5 min read)
 
-### [Design Thinking isn’t design, it’s Design Thinking](https://uxdesign.cc/design-thinking-isnt-design-it-s-design-thinking-b8a5f96f0294)
-by [Anish Joshi](https://uk.linkedin.com/in/anish-joshi-00634a1) Head of Design and Innovation at [Shell](https://www.shell.com/) (6 min read) Many people in the world and business still see ‘Design’ as that thing which makes things look good, function well, and perhaps have an emotive quality. Recently (although in reality it has been in the public arena for at least a decade now) there has been the emergence of the term, tool, discipline, and mindset, that is ‘Design Thinking’. ‘Created’ and coined by Tim Brown of IDEO, (see my other blog, [‘Dangerous Times in Design’](https://medium.com/@AnishJoshiDesign/dangerous-times-in-design-8651844b8bcd), if you want the definition/ know what it is) it was a nice power move to make; affording designers a whole new playground and application of their skills, and executives a seemingly original angle at which to approach their business problems with. Since then it has slowly gathered favor and momentum, but its use and users have constantly been changing… [Read more](https://uxdesign.cc/design-thinking-isnt-design-it-s-design-thinking-b8a5f96f0294)
+A few weeks ago, I was talking to my younger sister about careers. Me: “…So that’s when I decided I’d like to focus on becoming a UX designer rather than staying in front-end development.” Sister: “Well, what is UX?” Me: *generic textbook definition of usability and user focused design* Sister: “So… a web designer?” Me: “Well, not exactly. I think what you mean is a UI designer. They definitely work hand-in-hand but focus on different aspects of the same story. Ya know?” Sister: “But there are enough templates out there for me to make a website so what is the point?” Read more (Links to an external site.)
 
-### [Three great examples of Design Thinking in action](https://medium.com/swlh/3-great-examples-of-design-thinking-in-action-a96461538c4a) 
-by [Adam Leon](https://ca.linkedin.com/in/transmitterstudios) Design & Technology Strategist at [Transmitter Studios](https://cx.transmitterstudios.com/home)(6 min read) Design Thinking. Specific definitions vary and they all include a problem solving process that puts identifying people’s needs first using a variety of tools to achieve results. This is my favourite part. Getting the results. Too often in our industry of software and services we consider that an individual transaction is the end of an association. It shouldn’t be. Digital solutions are not one-off billboards. Iterations, experiments, observations, insights, and action drive real change and create valuable products. [Read more](https://medium.com/swlh/3-great-examples-of-design-thinking-in-action-a96461538c4a) 
+The many roles in UX  (Links to an external site.)
+by  (Links to an external site.) Per Magnus Sköld  (Links to an external site.) of Mako Design + Invent  (Links to an external site.)(5 min read)
+
+An Industrial Designer has always been an Industrial Designer. While there are several skills that an Industrial Designer must employ that are shared with other occupations, such as Graphic Design, 3D rendering visualization, 3D cad, faux-Engineer, and of course, sketcher/artist/illustrator. Sometimes it is the loftier role of Big-picture-thinker, or just as likely, the torch-bearer for keeping the design intent as it goes through the engineering-grinder. But it has always just been…Industrial Designer. Were this ten years ago I would have told you that an Industrial Designer and a Product Designer are the same thing, but as the tides have shifted, this too has changed. Read more (Links to an external site.)
+
+What is UX design?  (Links to an external site.)
+ (Links to an external site.)by 15 UX designers (10 min read)
+
+It’s important to start by saying there’s no commonly accepted definition for UX design. User experience design is a concept that has many dimensions, and it includes a bunch of different disciplines—such as interaction design, information architecture, visual design, usability, and human-computer interaction. But let’s try to get a clearer picture of what that really means. Read more
 
 
 ## Videos ##
@@ -61,15 +74,34 @@ by [Adam Leon](https://ca.linkedin.com/in/transmitterstudios) Design & Technolog
 
 #
 
-### [The Explainer: Design Thinking](https://www.youtube.com/watch?v=z3IbHLfcyWo)
-(3 min) Popularized by David M. Kelley and Tim Brown of IDEO and Roger Martin of the Rotman School, design thinking has three major stages. For more, read "Design for Action." <br><br>
-<a href="https://www.youtube.com/watch?v=z3IbHLfcyWo"><img src="https://img.youtube.com/vi/z3IbHLfcyWo/0.jpg" width="420"></a>
 
-#
+Defining user experience design and explaining the process. (Links to an external site.)
+(34 min)
 
-### [The Design Thinking Process.](https://www.youtube.com/watch?v=_r0VX-aU_T8)
-(4 min) Design Thinking is a 5-step process to come up with meaningful ideas that solve real problems for a particular group of people.  The process is taught in top design and business schools around the world. It has brought many businesses lots of happy customers and helped entrepreneurs from all around the world, to solve problems with innovative new solutions. <br><br>
-<a href="https://www.youtube.com/watch?v=_r0VX-aU_T8"><img src="https://img.youtube.com/vi/_r0VX-aU_T8/0.jpg" width="420"></a>
+Idea to appstore | AJSmart. (Links to an external site.)
+(16 min)
 
-#
+What Does a UX Designer Do? | Inside Jobs. (Links to an external site.)
+(7 min)
 
+
+
+
+
+
+## Tools ##
+
+InVision (Links to an external site.) Showing and gathering feedback on simple prototypes and designs
+Axure (Links to an external site.) Wireframing and prototyping tool
+Figma (Links to an external site.) A design and prototyping tool that also allows for collaborative work as well as feedback
+Sketch (Links to an external site.) a design and prototyping tool
+Optimizely (Links to an external site.) A tool for comparative and experimental testing
+UserTesting (Links to an external site.) A tool for getting actual users to test our your designs or experiences
+UX Mastery has a very comprehensive list (Links to an external site.) bucketed by task or user experience need.
+
+Books
+Lean UX (Links to an external site.)
+About Face (Links to an external site.)
+Designing for the Digital Age (Links to an external site.)
+Don't make me think (Links to an external site.)
+The design of everyday things

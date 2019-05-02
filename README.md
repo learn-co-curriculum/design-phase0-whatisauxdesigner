@@ -1,30 +1,41 @@
-# Why is Design Important? #
-> ## Design thinking is neither art nor science nor religion. It is the capacity, ultimately, for integrative thinking.
-> – Tim Brown, IDEO.
- 
-Design thinking is a specific way of approaching user-centered design. It was created by the Stanford D. School (Links to an external site.) and is deeply rooted in empathy and ideation. The concept behind design thinking is simple: If designers understand and take interest in the users they are designing for, their final product will be more innovative, feasible and profitable. Oftentimes, the experiences and products that leave the most lasting impressions are the ones that have been created using design thinking. While design thinking isn't a new concept, you'd be surprised by the number of companies have yet to adopt this practice.
+# What is a UX Designer? #
+> ## A holistic, multidisciplinary approach to the design of user interfaces for digital products, defining their form, behavior, and content. User experience design integrates interaction design, industrial design, information architecture, information design, visual interface design, user assistance design, and user-centered design, ensuring coherence and consistency across all of these design dimensions.
+> – Pabini Gabriel-Petit, UX Matters.
 
-Design thinking is typically broken-down into a five-step iterative process:
+User experience (UX) design means different things to different people. In fact, if you ask three people to define what UX is, you will likely hear three different answers. However, most everyone will agree that someone in UX design role is primarily concerned with the total experience of a user as they interact with a product or service that is meant to a specific user problem. UX consists of users, content, business goals and how the users interact with the material (content).
 
-**Step 1: Empathize**
+### UserTesting.com defines UX Designer this way:
+"UX designers are responsible for ensuring that the company delivers a product or service that meets the needs of the customer and allows them to seamlessly achieve their desired outcome.
 
-Designers think carefully about their users to understand who they are. They also get a good grasp on user needs/preferences, the needs of their business and the constraints of the platform they are designing for. 
+UX designers work closely with UI designers, UX researchers, marketers, and product teams to understand their users through research and experimentation. They use the insights gained to continually iterate and improve experiences, based on both quantitative and qualitative user research." (Source: UserTesting Blog (Links to an external site.)) 
 
-**Step 2: Define
+Since its growing popularity in the late 2000s, UX has been adopted by different markets. Jobs now range from generalist UX design positions to highly-specialized UX roles in larger companies. It's important to note that how a company views UX will likely dictate the job of their staff UX designers. In other words, wherever a designer works, an agency (Links to an external site.), a startup (Links to an external site.), an in-house (Links to an external site.) company or a consultancy, (Links to an external site.) will determine precisely what role they take on at that company.
 
-Designers then define the problem they wish to solve based on user pain point research.
+For example, at Airbnb (Links to an external site.), the Experience Designers are comprised of interaction, visual and service designers:
+"What we design goes beyond the screen and impacts all aspects of our users' journey (hence the name Experience Design). Sometimes we design small adjustments to a page or flow, sometimes we’re designing wholly new product experiences. Both have a big impact. We are all hybrids and we work at all stages of the product process—from concept to launch—in collaboration with researchers, product managers and engineers. The work is challenging. It stretches us to think online and offline and embrace all cultures."
 
-**Step 3: Ideate
+— Katie Dill, UX Designer from Airbnb, 2015.
 
-In this step, designers come up with creative solutions for the identified problem. 
+Google tend to be more specialized and focus on product focused UX patterns:
+"[Google] UX Designers on a daily day basis design interfaces navigation models UX patterns for a lot of different apps and surfaces... I helped change the UI
+in a way that's more usable and more efficient to users..."
 
-**Step 4: Prototype
+— Sun Park, User Experience Designer from Google, 2017
 
-Once they have a finalized solution, designers build out an initial prototype to conceptualize that solution. They then layer in more prototypes to examine features, language and content strategy.
+An 'Experience Lead' at Huge (Links to an external site.) agency research, strategizes and defines designs:
+Experience Leads oversee an interdisciplinary team (including Visual and Interaction Designers, Content Strategists and Copywriters, Developers and more) through research, strategy development, concepting, product definition and design.
 
-**Step 5: Test
+A successful Experience Lead at Huge is an innovative designer, a decisive product owner, a helpful mentor, a team player and a skilled client partner all rolled into one. Our Leads push the work through strong collaboration and challenge the team to think beyond what’s expected. This is a hands-on role: our Leads create designs, personas, site maps and whatever is needed to communicate the team's thinking. (Source: Huge Inc. job description) 
 
-A prototype is a good start, but it needs to hold up to the final step, testing. Designers often create more iterations and refine their product until they achieve their desired results. 
+## Part researcher, part strategist, part marketer, part analytics, UX Designers are skilled in a variety of these skills and responsibilities:
+* research (competitive analysis)
+* empathy (understanding users)
+* content (strategy, copywriting)
+* information architecture (wireframing)
+* prototyping (testing and experimentation)
+* collaboration (working closely with developers and visual designers to execute designs)
+* analytics (tracking results)
+
 
 
 

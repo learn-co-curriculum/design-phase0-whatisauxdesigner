@@ -1,6 +1,10 @@
-# What is Design? #
+# Why is Design Important? #
 > ## It takes twenty years to build a reputation and five minutes to ruin it.
 > – Warren Buffet, CEO of Berkshire Hathaway.
+
+``` ## It takes twenty years to build a reputation and five minutes to ruin it.
+ – Warren Buffet, CEO of Berkshire Hathaway.
+ ```
  
 Imagine you're the CEO of a company. You're sitting in your 35th-story corner office, awaiting the impending launch of your first product. You know your clever marketing will help you put up massive sales numbers, and you anticipate many investors will be interested in capitalizing on your company. OK, so maybe you cut some corners and didn't use designers in your production process, but who needs those anyways, right? 
 

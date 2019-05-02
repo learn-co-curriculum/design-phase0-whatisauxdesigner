@@ -6,7 +6,7 @@ Design thinking is a specific way of approaching user-centered design. It was cr
 
 Design thinking is typically broken-down into a five-step iterative process:
 
-**Step 1: Empathize
+**Step 1: Empathize**
 
 Designers think carefully about their users to understand who they are. They also get a good grasp on user needs/preferences, the needs of their business and the constraints of the platform they are designing for. 
 
@@ -42,30 +42,21 @@ by [Adam Leon](https://ca.linkedin.com/in/transmitterstudios) Design & Technolog
 
 ## Videos ##
 
-It's not you. Bad doors are everywhere.
-https://www.youtube.com/watch?v=yY96hTb8WgI
-(6 min)
-watch: The Explainer: Design Thinking. (Links to an external site.) (3 min)
-watch: The Explainer: Design Thinking. (Links to an external site.) (3 min)
-watch:
-The Design Thinking Process. (
-
-
-### [The world is poorly designed. But copying nature helps.](https://www.youtube.com/watch?v=iMtXqTmfta0)
-(5 min) Biomimicry design, explained with 99% Invisible. Hear about the Biomimicry Institute, a non-profit encouraging creators to discover how big challenges in design, engineering, and sustainability have often already been solved through 3.8 billion years of evolution on earth. We just have to go out and find them. <br><br>
-<a href="https://www.youtube.com/watch?v=iMtXqTmfta0"><img src="https://img.youtube.com/vi/iMtXqTmfta0/0.jpg" width="420"></a>
+### [It's not you. Bad doors are everywhere.](https://www.youtube.com/watch?v=yY96hTb8WgI)
+(6 min) Don Norman started complaining about doors over 25 years ago. Doors shouldn't need instructions – the shape of them can guide you through just fine.  So why do so many doors need instruction manuals right on the side of them?<br><br>
+<a href="https://www.youtube.com/watch?v=yY96hTb8WgI"><img src="https://img.youtube.com/vi/yY96hTb8WgI/0.jpg" width="420"></a>
 
 #
 
-### [Good design is good business.](https://www.youtube.com/watch?v=q-o1PgJVaX4)
-(8 min) Kleiner Perkins Caufield & Byers design partner John Maeda talks to McKinsey’s Hugo Sarrazin about why today’s senior executives must understand design.<br><br>
-<a href="https://www.youtube.com/watch?v=q-o1PgJVaX4"><img src="https://img.youtube.com/vi/q-o1PgJVaX4/0.jpg" width="420"></a>
+### [The Explainer: Design Thinking](https://www.youtube.com/watch?v=z3IbHLfcyWo)
+(3 min) Popularized by David M. Kelley and Tim Brown of IDEO and Roger Martin of the Rotman School, design thinking has three major stages. For more, read "Design for Action." <br><br>
+<a href="https://www.youtube.com/watch?v=z3IbHLfcyWo"><img src="https://img.youtube.com/vi/z3IbHLfcyWo/0.jpg" width="420"></a>
 
 #
-### [Design 2019: Integrating Design And Business.](https://www.youtube.com/watch?v=NMJk1jjQxEE)
-(24 min) For most organizations “design” is a peripheral service or the subject of an occasional workshop. How can businesses integrate design thinking as a transformative day-to-day practice?
-<br><br>
-<a href="https://www.youtube.com/watch?v=NMJk1jjQxEE"><img src="https://img.youtube.com/vi/NMJk1jjQxEE/0.jpg" width="420"></a>
+
+### [The Design Thinking Process.](https://www.youtube.com/watch?v=_r0VX-aU_T8)
+(4 min)Design Thinking is a 5-step process to come up with meaningful ideas that solve real problems for a particular group of people.  The process is taught in top design and business schools around the world. It has brought many businesses lots of happy customers and helped entrepreneurs from all around the world, to solve problems with innovative new solutions. <br><br>
+<a href="https://www.youtube.com/watch?v=_r0VX-aU_T8"><img src="https://img.youtube.com/vi/_r0VX-aU_T8/0.jpg" width="420"></a>
 
 #
 

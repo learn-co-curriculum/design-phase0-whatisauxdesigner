@@ -13,15 +13,6 @@ Since its growing popularity in the late 2000s, UX has been adopted by different
 
 #
 
-
-<dl>
-  <dt>UserTesting.com defines UX designer this way:</dt>
-  <dd>UX designers are responsible for ensuring that the company delivers a product or service that meets the needs of the customer and allows them to seamlessly achieve their desired outcome. <br><br>UX designers work closely with UI designers, UX researchers, marketers, and product teams to understand their users through research and experimentation. They use the insights gained to continually iterate and improve experiences, based on both quantitative and qualitative user research."</dd>
-</dl>
-
-
-
-
 ### For example, at [Airbnb](https://www.airbnb.com/), the Experience Designers are comprised of interaction, visual and service designers:
 > What we design goes beyond the screen and impacts all aspects of our users' journey (hence the name Experience Design). Sometimes we design small adjustments to a page or flow, sometimes we’re designing wholly new product experiences. Both have a big impact. We are all hybrids and we work at all stages of the product process—from concept to launch—in collaboration with researchers, product managers and engineers. The work is challenging. It stretches us to think online and offline and embrace all cultures." <br><br>— Katie Dill, UX Designer from Airbnb, 2015.
 

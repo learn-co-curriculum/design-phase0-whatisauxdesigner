@@ -73,20 +73,20 @@ by 15 UX designers (10 min read) It’s important to start by saying there’s n
 
 ### [What is UX Design? Defining User Experience Design & Explaining the Process](https://www.youtube.com/watch?v=CJnfAXlBRTE)
 (34 min) Jose and Chris explain what UX Design is by working on the redesign of The Skool's website. User Experience Design (UXD) is the process of enhancing user satisfaction by improving the usability, accessibility, and pleasure provided in the interaction between the user and a product or service. <br><br>
-<a href="https://www.youtube.com/watch?v=yY96hTb8WgI"><img src="https://img.youtube.com/vi/yY96hTb8WgI/0.jpg" width="420"></a>
+<a href="https://www.youtube.com/watch?v=yY96hTb8WgI"><img src="https://img.youtube.com/vi/CJnfAXlBRTE/0.jpg" width="420"></a>
 
 #
 
 
 ### [Idea to appstore | AJSmart.](https://www.youtube.com/watch?v=ZgMG_OflDq0)
 (16 min) This video is all about taking your idea for an app and the actual process behind building it and delivering it to the appstore. <br><br>
-<a href="https://www.youtube.com/watch?v=yY96hTb8WgI"><img src="https://img.youtube.com/vi/yY96hTb8WgI/0.jpg" width="420"></a>
+<a href="https://www.youtube.com/watch?v=yY96hTb8WgI"><img src="https://img.youtube.com/vi/ZgMG_OflDq0/0.jpg" width="420"></a>
 
 #
 
 ### [What Does a UX Designer Do? | Inside Jobs.](https://www.youtube.com/watch?v=HvUHyZb1-9Y)
 (7 min) Colleen Taylor talks with Sarah Harrison, the head of UX design at True&Co. The technology industry today has job titles that you don't really find anywhere else. User experience, or "UX", is one of them. It seems like every tech company is hiring in "UX design" and "UX research", but it's hard for outsiders to know what exactly it is that they do. <br><br>
-<a href="https://www.youtube.com/watch?v=yY96hTb8WgI"><img src="https://img.youtube.com/vi/yY96hTb8WgI/0.jpg" width="420"></a>
+<a href="https://www.youtube.com/watch?v=yY96hTb8WgI"><img src="https://img.youtube.com/vi/HvUHyZb1-9Y/0.jpg" width="420"></a>
 
 #
 

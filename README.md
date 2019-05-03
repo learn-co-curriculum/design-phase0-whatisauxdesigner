@@ -91,7 +91,6 @@ by 15 UX designers (10 min read) It’s important to start by saying there’s n
 <a href="https://www.youtube.com/watch?v=yY96hTb8WgI"><img src="https://img.youtube.com/vi/HvUHyZb1-9Y/0.jpg" width="420"></a>
 
 
-<br><br>
 
 
 ## Tools ##
@@ -104,7 +103,8 @@ by 15 UX designers (10 min read) It’s important to start by saying there’s n
 - [UserTesting](https://www.usertesting.com/) A tool for getting actual users to test our your designs or experiences
 
 UX Mastery has a [very comprehensive list](https://uxmastery.com/resources/tools/) bucketed by task or user experience need.
-<br><br>
+
+
 
 
  ## Books ##

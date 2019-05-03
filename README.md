@@ -1,7 +1,7 @@
 # What is a UX Designer? #
 > ## A holistic, multidisciplinary approach to the design of user interfaces for digital products, defining their form, behavior, and content. User experience design integrates interaction design, industrial design, information architecture, information design, visual interface design, user assistance design, and user-centered design, ensuring coherence and consistency across all of these design dimensions.
 > – Pabini Gabriel-Petit, UX Matters.
-
+<br><br><br>
 
 User experience (UX) design means different things to different people. In fact, if you ask three people to define what UX is, you will likely hear three different answers. However, most everyone will agree that someone in UX design role is primarily concerned with the total experience of a user as they interact with a product or service that is meant to a specific user problem. UX consists of users, content, business goals and how the users interact with the material.
 
@@ -37,6 +37,8 @@ Since its growing popularity in the late 2000s, UX has been adopted by different
 * collaboration (working closely with developers and visual designers to execute designs)
 * analytics (tracking results)
 
+
+
 ## UX Student Interviews ## 
 
 To get a better sense of UX design as it relates to the program at Flatiron School (powered by Designation), read a few interviews from our alumni:
@@ -51,7 +53,7 @@ by [Kyle Howard](http://kylehoward.design/), [Bose](https://www.bose.com/en_us/i
 
 
 ### [Coffee meets UX design.](https://designation.io/blog/interview-with-anabelle-zee) 
-by [Anabelle Zee](http://anabellezee.com/), [Pandora](Links to an external site.), Obsidian cohort 
+by [Anabelle Zee]\(Obsidian cohort grad)\(http://anabellezee.com/), [Pandora](https://www.pandora.com/) 
 (5 min read)
 
 

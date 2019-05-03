@@ -1,4 +1,6 @@
 # What is a UX Designer? #
+
+<br><br>
 > ## A holistic, multidisciplinary approach to the design of user interfaces for digital products, defining their form, behavior, and content. User experience design integrates interaction design, industrial design, information architecture, information design, visual interface design, user assistance design, and user-centered design, ensuring coherence and consistency across all of these design dimensions.
 > – Pabini Gabriel-Petit, UX Matters.
 

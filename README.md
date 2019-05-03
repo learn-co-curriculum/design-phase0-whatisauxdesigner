@@ -36,7 +36,7 @@ Since its growing popularity in the late 2000s, UX has been adopted by different
 * prototyping (testing and experimentation)
 * collaboration (working closely with developers and visual designers to execute designs)
 * analytics (tracking results)
-
+<br><br>
 
 
 ## UX Student Interviews ## 
@@ -55,6 +55,7 @@ by [Kyle Howard](http://kylehoward.design/) \(Yucca cohort grad)\, [Bose](https:
 ### [Coffee meets UX design.](https://designation.io/blog/interview-with-anabelle-zee) 
 by [Anabelle Zee](http://anabellezee.com/) \(Obsidian cohort grad)\, [Pandora](https://www.pandora.com/) 
 (5 min read)
+<br><br>
 
 
 ## Articles ##
@@ -67,6 +68,7 @@ by [Per Magnus Sköld](https://www.kaleighflynn.com/) of [Mako Design + Invent](
 
 ### [What is UX design?](https://www.usertesting.com/blog/what-is-ux-design-15-user-experience-experts-weigh-in/)
 by 15 UX designers (10 min read) It’s important to start by saying there’s no commonly accepted definition for UX design. User experience design is a concept that has many dimensions, and it includes a bunch of different disciplines—such as interaction design, information architecture, visual design, usability, and human-computer interaction. But let’s try to get a clearer picture of what that really means. [Read more](https://www.usertesting.com/blog/what-is-ux-design-15-user-experience-experts-weigh-in/)
+<br><br>
 
 
 ## Videos ##

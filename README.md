@@ -44,73 +44,74 @@ Since its growing popularity in the late 2000s, UX has been adopted by different
 To get a better sense of UX design as it relates to the program at Flatiron School (powered by Designation), read a few interviews from our alumni:
 
 ### [From banking to UX design.](https://designation.io/blog/qui-dixon)
-by [Qui Dixon](https://www.quidixon.com/), [BSwift](https://www.bswift.com/), of the Basil cohort 
+by [Qui Dixon](https://www.quidixon.com/) \(Basil cohort grad)\, [BSwift](https://www.bswift.com/) 
 (5 min read)
 
 ### [Former video editor to turned UX designer.](https://designation.io/blog/kyle-howard) 
-by [Kyle Howard](http://kylehoward.design/), [Bose](https://www.bose.com/en_us/index.html), of the Yucca cohort 
+by [Kyle Howard](http://kylehoward.design/) \(Yucca cohort grad)\, [Bose](https://www.bose.com/en_us/index.html) 
 (5 min read)
 
 
 ### [Coffee meets UX design.](https://designation.io/blog/interview-with-anabelle-zee) 
-by [Anabelle Zee]\(Obsidian cohort grad)\(http://anabellezee.com/), [Pandora](https://www.pandora.com/) 
+by [Anabelle Zee](http://anabellezee.com/) \(Obsidian cohort grad)\, [Pandora](https://www.pandora.com/) 
 (5 min read)
 
 
 ## Articles ##
 
-Explaining UX design to my sister (Links to an external site.)
-by  (Links to an external site.) Kaleigh Flynn (Links to an external site.) of Microsoft  (Links to an external site.)(5 min read)
+### [Explaining UX design to my sister](https://medium.com/nyc-design/explaining-ux-to-my-sister-7b2eda38fbb4)
+by [Kaleigh Flynn](https://www.kaleighflynn.com/) of [Microsoft](https://www.microsoft.com/en-us/)
 
-A few weeks ago, I was talking to my younger sister about careers. Me: “…So that’s when I decided I’d like to focus on becoming a UX designer rather than staying in front-end development.” Sister: “Well, what is UX?” Me: *generic textbook definition of usability and user focused design* Sister: “So… a web designer?” Me: “Well, not exactly. I think what you mean is a UI designer. They definitely work hand-in-hand but focus on different aspects of the same story. Ya know?” Sister: “But there are enough templates out there for me to make a website so what is the point?” Read more (Links to an external site.)
+(5 min read) A few weeks ago, I was talking to my younger sister about careers. Me: “…So that’s when I decided I’d like to focus on becoming a UX designer rather than staying in front-end development.” Sister: “Well, what is UX?” Me: *generic textbook definition of usability and user focused design* Sister: “So… a web designer?” Me: “Well, not exactly. I think what you mean is a UI designer. They definitely work hand-in-hand but focus on different aspects of the same story. Ya know?” Sister: “But there are enough templates out there for me to make a website so what is the point?” [Read more](https://medium.com/nyc-design/explaining-ux-to-my-sister-7b2eda38fbb4)
 
-The many roles in UX  (Links to an external site.)
-by  (Links to an external site.) Per Magnus Sköld  (Links to an external site.) of Mako Design + Invent  (Links to an external site.)(5 min read)
+### [The many roles in UX](https://medium.com/swlh/the-many-roles-in-ux-6a9c6b7ab231)
+by [Per Magnus Sköld](https://www.kaleighflynn.com/) of [Mako Design + Invent](https://www.makodesign.com/)
 
-An Industrial Designer has always been an Industrial Designer. While there are several skills that an Industrial Designer must employ that are shared with other occupations, such as Graphic Design, 3D rendering visualization, 3D cad, faux-Engineer, and of course, sketcher/artist/illustrator. Sometimes it is the loftier role of Big-picture-thinker, or just as likely, the torch-bearer for keeping the design intent as it goes through the engineering-grinder. But it has always just been…Industrial Designer. Were this ten years ago I would have told you that an Industrial Designer and a Product Designer are the same thing, but as the tides have shifted, this too has changed. Read more (Links to an external site.)
+(5 min read) An Industrial Designer has always been an Industrial Designer. While there are several skills that an Industrial Designer must employ that are shared with other occupations, such as Graphic Design, 3D rendering visualization, 3D cad, faux-Engineer, and of course, sketcher/artist/illustrator. Sometimes it is the loftier role of Big-picture-thinker, or just as likely, the torch-bearer for keeping the design intent as it goes through the engineering-grinder. But it has always just been…Industrial Designer. Were this ten years ago I would have told you that an Industrial Designer and a Product Designer are the same thing, but as the tides have shifted, this too has changed. [Read more](https://medium.com/swlh/the-many-roles-in-ux-6a9c6b7ab231)
 
-What is UX design?  (Links to an external site.)
- (Links to an external site.)by 15 UX designers (10 min read)
+### [What is UX design?](https://www.usertesting.com/blog/what-is-ux-design-15-user-experience-experts-weigh-in/)
+by 15 UX designers (10 min read)
 
-It’s important to start by saying there’s no commonly accepted definition for UX design. User experience design is a concept that has many dimensions, and it includes a bunch of different disciplines—such as interaction design, information architecture, visual design, usability, and human-computer interaction. But let’s try to get a clearer picture of what that really means. Read more
+It’s important to start by saying there’s no commonly accepted definition for UX design. User experience design is a concept that has many dimensions, and it includes a bunch of different disciplines—such as interaction design, information architecture, visual design, usability, and human-computer interaction. But let’s try to get a clearer picture of what that really means. [Read more](https://www.usertesting.com/blog/what-is-ux-design-15-user-experience-experts-weigh-in/)
 
 
 ## Videos ##
 
-### [It's not you. Bad doors are everywhere.](https://www.youtube.com/watch?v=yY96hTb8WgI)
-(6 min) Don Norman started complaining about doors over 25 years ago. Doors shouldn't need instructions – the shape of them can guide you through just fine.  So why do so many doors need instruction manuals right on the side of them?<br><br>
+### [What is UX Design? Defining User Experience Design & Explaining the Process](https://www.youtube.com/watch?v=CJnfAXlBRTE)
+(34 min) Jose and Chris explain what UX Design is by working on the redesign of The Skool's website. User Experience Design (UXD) is the process of enhancing user satisfaction by improving the usability, accessibility, and pleasure provided in the interaction between the user and a product or service. <br><br>
 <a href="https://www.youtube.com/watch?v=yY96hTb8WgI"><img src="https://img.youtube.com/vi/yY96hTb8WgI/0.jpg" width="420"></a>
 
 #
 
 
-Defining user experience design and explaining the process. (Links to an external site.)
-(34 min)
+### [Idea to appstore | AJSmart.](https://www.youtube.com/watch?v=ZgMG_OflDq0)
+(16 min) This video is all about taking your idea for an app and the actual process behind building it and delivering it to the appstore. <br><br>
+<a href="https://www.youtube.com/watch?v=yY96hTb8WgI"><img src="https://img.youtube.com/vi/yY96hTb8WgI/0.jpg" width="420"></a>
 
-Idea to appstore | AJSmart. (Links to an external site.)
-(16 min)
+#
 
-What Does a UX Designer Do? | Inside Jobs. (Links to an external site.)
-(7 min)
+### [What Does a UX Designer Do? | Inside Jobs.](https://www.youtube.com/watch?v=HvUHyZb1-9Y)
+(7 min) Colleen Taylor talks with Sarah Harrison, the head of UX design at True&Co. The technology industry today has job titles that you don't really find anywhere else. User experience, or "UX", is one of them. It seems like every tech company is hiring in "UX design" and "UX research", but it's hard for outsiders to know what exactly it is that they do. <br><br>
+<a href="https://www.youtube.com/watch?v=yY96hTb8WgI"><img src="https://img.youtube.com/vi/yY96hTb8WgI/0.jpg" width="420"></a>
 
-
+#
 
 
 
 
 ## Tools ##
 
-InVision (Links to an external site.) Showing and gathering feedback on simple prototypes and designs
-Axure (Links to an external site.) Wireframing and prototyping tool
-Figma (Links to an external site.) A design and prototyping tool that also allows for collaborative work as well as feedback
-Sketch (Links to an external site.) a design and prototyping tool
-Optimizely (Links to an external site.) A tool for comparative and experimental testing
-UserTesting (Links to an external site.) A tool for getting actual users to test our your designs or experiences
-UX Mastery has a very comprehensive list (Links to an external site.) bucketed by task or user experience need.
+- InVision (Links to an external site.) Showing and gathering feedback on simple prototypes and designs
+- Axure (Links to an external site.) Wireframing and prototyping tool
+- Figma (Links to an external site.) A design and prototyping tool that also allows for collaborative work as well as feedback
+- Sketch (Links to an external site.) a design and prototyping tool
+- Optimizely (Links to an external site.) A tool for comparative and experimental testing
+- UserTesting (Links to an external site.) A tool for getting actual users to test our your designs or experiences
+- UX Mastery has a very comprehensive list (Links to an external site.) bucketed by task or user experience need.
 
-Books
-Lean UX (Links to an external site.)
-About Face (Links to an external site.)
-Designing for the Digital Age (Links to an external site.)
-Don't make me think (Links to an external site.)
-The design of everyday things
+ ## Books ##
+- Lean UX (Links to an external site.)
+- About Face (Links to an external site.)
+- Designing for the Digital Age (Links to an external site.)
+- Don't make me think (Links to an external site.)
+- The design of everyday things

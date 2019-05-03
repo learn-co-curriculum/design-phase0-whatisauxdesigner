@@ -2,8 +2,7 @@
 > ## A holistic, multidisciplinary approach to the design of user interfaces for digital products, defining their form, behavior, and content. User experience design integrates interaction design, industrial design, information architecture, information design, visual interface design, user assistance design, and user-centered design, ensuring coherence and consistency across all of these design dimensions.
 > – Pabini Gabriel-Petit, UX Matters.
 
-
-
+<br><br>
 User experience (UX) design means different things to different people. In fact, if you ask three people to define what UX is, you will likely hear three different answers. However, most everyone will agree that someone in UX design role is primarily concerned with the total experience of a user as they interact with a product or service that is meant to a specific user problem. UX consists of users, content, business goals and how the users interact with the material.
 
 ### [UserTesting.com](https://www.usertesting.com/blog/ui-vs-ux/) defines UX designer this way: 
@@ -13,6 +12,15 @@ User experience (UX) design means different things to different people. In fact,
 Since its growing popularity in the late 2000s, UX has been adopted by different markets. Jobs now range from generalist UX design positions to highly-specialized UX roles in larger companies. It's important to note that how a company views UX will likely dictate the job of their staff UX designers. In other words, wherever a designer works, an [agency](https://kubixmedia.co.uk/blog/what-is-a-creative-agency-and-what-do-we-actually-do/), a [startup](https://www.forbes.com/sites/natalierobehmed/2013/12/16/what-is-a-startup/#22eee3f64044), an [in-house](https://www.investopedia.com/terms/i/in-house.asp) company or a [consultancy](https://uxdesign.cc/being-a-design-consultant-objective-and-expectation-996940d03eb6), will determine precisely what role they take on at that company.
 
 #
+
+
+<dl>
+  <dt>UserTesting.com defines UX designer this way:</dt>
+  <dd>UX designers are responsible for ensuring that the company delivers a product or service that meets the needs of the customer and allows them to seamlessly achieve their desired outcome. <br><br>UX designers work closely with UI designers, UX researchers, marketers, and product teams to understand their users through research and experimentation. They use the insights gained to continually iterate and improve experiences, based on both quantitative and qualitative user research."</dd>
+</dl>
+
+
+
 
 ### For example, at [Airbnb](https://www.airbnb.com/), the Experience Designers are comprised of interaction, visual and service designers:
 > What we design goes beyond the screen and impacts all aspects of our users' journey (hence the name Experience Design). Sometimes we design small adjustments to a page or flow, sometimes we’re designing wholly new product experiences. Both have a big impact. We are all hybrids and we work at all stages of the product process—from concept to launch—in collaboration with researchers, product managers and engineers. The work is challenging. It stretches us to think online and offline and embrace all cultures." <br><br>— Katie Dill, UX Designer from Airbnb, 2015.

@@ -28,7 +28,7 @@ Since its growing popularity in the late 2000s, UX has been adopted by different
 
 # 
 
-## Part researcher, part strategist, part marketer, part analytics, UX Designers are skilled in a variety of these skills and responsibilities:
+### Part researcher, part strategist, part marketer, part analytics, UX Designers are skilled in a variety of these skills and responsibilities:
 * research (competitive analysis)
 * empathy (understanding users)
 * content (strategy, copywriting)
@@ -40,11 +40,19 @@ Since its growing popularity in the late 2000s, UX has been adopted by different
 ## UX Student Interviews ## 
 
 To get a better sense of UX design as it relates to the program at Flatiron School (powered by Designation), read a few interviews from our alumni:
-<ul>
-<li><span style="font-size: 14pt;"><a href="https://designation.io/blog/qui-dixon"><em>From banking to UX design.</em></a></span><span style="font-size: 10pt; color: #808080;"> by </span><a href="https://www.quidixon.com/"> Qui Dixon, Basil cohort</a> of <em><a href="https://www.bswift.com/">BSwift. </a></em>(5 min read)</li>
-<li><span style="font-size: 14pt;"><a href="https://designation.io/blog/kyle-howard"><em>Former video editor to turned UX designer.</em></a></span><span style="font-size: 10pt; color: #808080;"> by </span><a href="http://kylehoward.design/"> Kyle Howard, Yucca cohort</a> of <em><a href="https://www.bose.com/en_us/index.html">Bose. </a></em>(5 min read)</li>
-<li><span style="font-size: 14pt;"><a href="https://designation.io/blog/interview-with-anabelle-zee"><em>Coffee meets UX design.</em></a></span><span style="font-size: 10pt; color: #808080;"> by </span><a href="http://anabellezee.com/"> Anabelle Zee, Obsidian cohort</a> of <em><a href="https://www.pandora.com/">Pandora.</a> </em>(5 min read)</li>
-</ul>
+
+### [From banking to UX design.](https://designation.io/blog/qui-dixon)
+by [Qui Dixon](https://www.quidixon.com/), [BSwift](https://www.bswift.com/), of the Basil cohort 
+(5 min read)
+
+### [Former video editor to turned UX designer.](https://designation.io/blog/kyle-howard) 
+by [Kyle Howard](http://kylehoward.design/), [Bose](https://www.bose.com/en_us/index.html), of the Yucca cohort 
+(5 min read)
+
+
+### [Coffee meets UX design.](https://designation.io/blog/interview-with-anabelle-zee) 
+by [Anabelle Zee](http://anabellezee.com/), [Pandora](Links to an external site.), Obsidian cohort 
+(5 min read)
 
 
 ## Articles ##

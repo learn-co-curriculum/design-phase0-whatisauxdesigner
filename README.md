@@ -1,4 +1,4 @@
-# What is a UX Designer? #
+# What is a UX Designer? 
 
 > ## A holistic, multidisciplinary approach to the design of user interfaces for digital products, defining their form, behavior, and content. User experience design integrates interaction design, industrial design, information architecture, information design, visual interface design, user assistance design, and user-centered design, ensuring coherence and consistency across all of these design dimensions.
 > – Pabini Gabriel-Petit, UX Matters.
@@ -39,7 +39,7 @@ Since its growing popularity in the late 2000s, UX has been adopted by different
 <br><br>
 
 
-## UX Student Interviews ## 
+## UX Student Interviews  
 
 To get a better sense of UX design as it relates to the program at Flatiron School (powered by Designation), check out a few interviews from our alumni:
 
@@ -58,7 +58,7 @@ by [Anabelle Zee](http://anabellezee.com/) \(Obsidian cohort grad)\, [Pandora](h
 <br><br>
 
 
-## Articles ##
+## Articles 
 
 ### [Explaining UX design to my sister](https://medium.com/nyc-design/explaining-ux-to-my-sister-7b2eda38fbb4)
 by [Kaleigh Flynn](https://www.kaleighflynn.com/) of [Microsoft](https://www.microsoft.com/en-us/) (5 min read) <br>A few weeks ago, I was talking to my younger sister about careers. Me: “…So that’s when I decided I’d like to focus on becoming a UX designer rather than staying in front-end development.” Sister: “Well, what is UX?” Me: *generic textbook definition of usability and user focused design* Sister: “So… a web designer?” Me: “Well, not exactly. I think what you mean is a UI designer. They definitely work hand-in-hand but focus on different aspects of the same story. Ya know?” Sister: “But there are enough templates out there for me to make a website so what is the point?” [Read more](https://medium.com/nyc-design/explaining-ux-to-my-sister-7b2eda38fbb4)
@@ -71,7 +71,7 @@ by 15 UX designers (10 min read) <br>It’s important to start by saying there�
 <br><br>
 
 
-## Videos ##
+## Videos 
 
 ### [What is UX Design? Defining User Experience Design & Explaining the Process](https://www.youtube.com/watch?v=CJnfAXlBRTE)
 (34 min) Jose and Chris explain what UX Design is by working on the redesign of The Skool's website. User Experience Design (UXD) is the process of enhancing user satisfaction by improving the usability, accessibility, and pleasure provided in the interaction between the user and a product or service. <br><br>
@@ -92,7 +92,7 @@ by 15 UX designers (10 min read) <br>It’s important to start by saying there�
 <br><br>
 
 
-## Tools ##
+## Tools
 
 - [InVision](https://www.invisionapp.com/) Showing and gathering feedback on simple prototypes and designs
 - [Axure](https://www.axure.com/) Wireframing and prototyping tool
@@ -104,7 +104,8 @@ by 15 UX designers (10 min read) <br>It’s important to start by saying there�
 UX Mastery has a [very comprehensive list](https://uxmastery.com/resources/tools/) list of tools categorized by task or user experience need. 
 
 
- ## Books ##
+ ## Books
+ 
 - [Lean UX](https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652)
 - [About Face](https://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/1118766571)
 - [Designing for the Digital Age](https://www.amazon.com/Designing-Digital-Age-Human-Centered-Products/dp/0470229101)

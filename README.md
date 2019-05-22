@@ -18,30 +18,30 @@ Since its growing popularity in the late 2000s, UX has been adopted by different
 
 #
 
-### Google tend to be more specialized and focus on product focused UX patterns:
+### Google tends to be more specialized and focus on product-focused UX patterns:
 > [Google] UX Designers on a daily day basis design interfaces navigation models UX patterns for a lot of different apps and surfaces... I helped change the UI in a way that's more usable and more efficient to users... <br><br>— Sun Park, User Experience Designer from Google, 2017
 
 #
 
-### An 'Experience Lead' at [Huge](https://www.hugeinc.com/) agency research, strategizes and defines designs:
+### An 'Experience Lead' at [Huge](https://www.hugeinc.com/) agency researches, strategizes and defines designs:
 > Experience Leads oversee an interdisciplinary team (including Visual and Interaction Designers, Content Strategists and Copywriters, Developers and more) through research, strategy development, concepting, product definition and design. <br><br>A successful Experience Lead at Huge is an innovative designer, a decisive product owner, a helpful mentor, a team player and a skilled client partner all rolled into one. Our Leads push the work through strong collaboration and challenge the team to think beyond what’s expected. This is a hands-on role: our Leads create designs, personas, site maps and whatever is needed to communicate the team's thinking. (Source: Huge Inc. job description) 
 
 # 
 
-### Part researcher, part strategist, part marketer, part analytics, UX Designers are skilled in a variety of these skills and responsibilities:
-* research (competitive analysis)
-* empathy (understanding users)
-* content (strategy, copywriting)
-* information architecture (wireframing)
-* prototyping (testing and experimentation)
-* collaboration (working closely with developers and visual designers to execute designs)
-* analytics (tracking results)
+### Part researcher, part strategist, part marketer, part analyst, UX Designers are well-versed in:
+* Research (competitive analysis)
+* Empathetic design (understanding users)
+* Content creation (strategy, copywriting)
+* Information architecture (wireframing)
+* Prototyping (testing and experimentation)
+* Collaboration (working closely with developers and visual designers to execute designs)
+* Analytics (tracking results) 
 <br><br>
 
 
 ## UX Student Interviews ## 
 
-To get a better sense of UX design as it relates to the program at Flatiron School (powered by Designation), read a few interviews from our alumni:
+To get a better sense of UX design as it relates to the program at Flatiron School (powered by Designation), check out a few interviews from our alumni:
 
 ### [From banking to UX design.](https://designation.io/blog/qui-dixon)
 by [Qui Dixon](https://www.quidixon.com/) \(Basil cohort grad)\, [BSwift](https://www.bswift.com/) 
@@ -61,13 +61,13 @@ by [Anabelle Zee](http://anabellezee.com/) \(Obsidian cohort grad)\, [Pandora](h
 ## Articles ##
 
 ### [Explaining UX design to my sister](https://medium.com/nyc-design/explaining-ux-to-my-sister-7b2eda38fbb4)
-by [Kaleigh Flynn](https://www.kaleighflynn.com/) of [Microsoft](https://www.microsoft.com/en-us/) (5 min read) A few weeks ago, I was talking to my younger sister about careers. Me: “…So that’s when I decided I’d like to focus on becoming a UX designer rather than staying in front-end development.” Sister: “Well, what is UX?” Me: *generic textbook definition of usability and user focused design* Sister: “So… a web designer?” Me: “Well, not exactly. I think what you mean is a UI designer. They definitely work hand-in-hand but focus on different aspects of the same story. Ya know?” Sister: “But there are enough templates out there for me to make a website so what is the point?” [Read more](https://medium.com/nyc-design/explaining-ux-to-my-sister-7b2eda38fbb4)
+by [Kaleigh Flynn](https://www.kaleighflynn.com/) of [Microsoft](https://www.microsoft.com/en-us/) (5 min read) <br>A few weeks ago, I was talking to my younger sister about careers. Me: “…So that’s when I decided I’d like to focus on becoming a UX designer rather than staying in front-end development.” Sister: “Well, what is UX?” Me: *generic textbook definition of usability and user focused design* Sister: “So… a web designer?” Me: “Well, not exactly. I think what you mean is a UI designer. They definitely work hand-in-hand but focus on different aspects of the same story. Ya know?” Sister: “But there are enough templates out there for me to make a website so what is the point?” [Read more](https://medium.com/nyc-design/explaining-ux-to-my-sister-7b2eda38fbb4)
 
 ### [The many roles in UX](https://medium.com/swlh/the-many-roles-in-ux-6a9c6b7ab231)
-by [Per Magnus Sköld](https://www.kaleighflynn.com/) of [Mako Design + Invent](https://www.makodesign.com/) (5 min read) An Industrial Designer has always been an Industrial Designer. While there are several skills that an Industrial Designer must employ that are shared with other occupations, such as Graphic Design, 3D rendering visualization, 3D cad, faux-Engineer, and of course, sketcher/artist/illustrator. Sometimes it is the loftier role of Big-picture-thinker, or just as likely, the torch-bearer for keeping the design intent as it goes through the engineering-grinder. But it has always just been…Industrial Designer. Were this ten years ago I would have told you that an Industrial Designer and a Product Designer are the same thing, but as the tides have shifted, this too has changed. [Read more](https://medium.com/swlh/the-many-roles-in-ux-6a9c6b7ab231)
+by [Per Magnus Sköld](https://www.kaleighflynn.com/) of [Mako Design + Invent](https://www.makodesign.com/) (5 min read) <br>An Industrial Designer has always been an Industrial Designer. While there are several skills that an Industrial Designer must employ that are shared with other occupations, such as Graphic Design, 3D rendering visualization, 3D cad, faux-Engineer, and of course, sketcher/artist/illustrator. Sometimes it is the loftier role of Big-picture-thinker, or just as likely, the torch-bearer for keeping the design intent as it goes through the engineering-grinder. But it has always just been…Industrial Designer. Were this ten years ago I would have told you that an Industrial Designer and a Product Designer are the same thing, but as the tides have shifted, this too has changed. [Read more](https://medium.com/swlh/the-many-roles-in-ux-6a9c6b7ab231)
 
 ### [What is UX design?](https://www.usertesting.com/blog/what-is-ux-design-15-user-experience-experts-weigh-in/)
-by 15 UX designers (10 min read) It’s important to start by saying there’s no commonly accepted definition for UX design. User experience design is a concept that has many dimensions, and it includes a bunch of different disciplines—such as interaction design, information architecture, visual design, usability, and human-computer interaction. But let’s try to get a clearer picture of what that really means. [Read more](https://www.usertesting.com/blog/what-is-ux-design-15-user-experience-experts-weigh-in/)
+by 15 UX designers (10 min read) <br>It’s important to start by saying there’s no commonly accepted definition for UX design. User experience design is a concept that has many dimensions, and it includes a bunch of different disciplines—such as interaction design, information architecture, visual design, usability, and human-computer interaction. But let’s try to get a clearer picture of what that really means. [Read more](https://www.usertesting.com/blog/what-is-ux-design-15-user-experience-experts-weigh-in/)
 <br><br>
 
 
@@ -101,8 +101,7 @@ by 15 UX designers (10 min read) It’s important to start by saying there’s n
 - [Optimizely](https://www.optimizely.com/) A tool for comparative and experimental testing
 - [UserTesting](https://www.usertesting.com/) A tool for getting actual users to test our your designs or experiences
 
-UX Mastery has a [very comprehensive list](https://uxmastery.com/resources/tools/) bucketed by task or user experience need.
-<br><br>
+UX Mastery has a [very comprehensive list](https://uxmastery.com/resources/tools/) list of tools categorized by task or user experience need. 
 
 
  ## Books ##

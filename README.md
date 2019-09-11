@@ -78,7 +78,7 @@ by 15 UX designers (10 min read) <br>Itâ€™s important to start by saying thereâ€
 
 ## [What is UX Design? Defining User Experience Design & Explaining the Process](https://www.youtube.com/watch?v=CJnfAXlBRTE)
 (34 min) Jose and Chris explain what UX Design is by working on the redesign of The Skool's website. User Experience Design (UXD) is the process of enhancing user satisfaction by improving the usability, accessibility, and pleasure provided in the interaction between the user and a product or service. <br><br>
-<a href="https://www.youtube.com/watch?v=yY96hTb8WgI"><img src="https://img.youtube.com/vi/CJnfAXlBRTE/0.jpg" width="420"></a>
+<a href="https://www.youtube.com/watch?v=CJnfAXlBRTE"><img src="https://img.youtube.com/vi/CJnfAXlBRTE/0.jpg" width="420"></a>
 
 #
 

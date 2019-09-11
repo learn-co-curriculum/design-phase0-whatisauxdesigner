@@ -90,7 +90,7 @@ by 15 UX designers (10 min read) <br>Itâ€™s important to start by saying thereâ€
 #
 
 ## [What Does a UX Designer Do? | Inside Jobs.](https://www.youtube.com/watch?v=HvUHyZb1-9Y)
-(7 min) Colleen Taylor talks with Sarah Harrison, the head of UX design at True&Co. The technology industry today has job titles that you don't really find anywhere else. User experience, or "UX", is one of them. It seems like every tech company is hiring in "UX design" and "UX research", but it's hard for outsiders to know what exactly it is that they do. <br><br>
+(7 min) Colleen Taylor talks with Sarah Harrison, the head of UX design at True&Co. The technology industry today has job titles that you don't really find anywhere else. User experience, or "UX", is one of them. It seems like every tech company is hiring in "UX design" and "UX research", but it's hard for outsiders to know what exactly it is that they do. (available in the U.S. only)<br><br>
 <a href="https://www.youtube.com/watch?v=yY96hTb8WgI"><img src="https://img.youtube.com/vi/HvUHyZb1-9Y/0.jpg" width="420"></a>
 <br><br>
 

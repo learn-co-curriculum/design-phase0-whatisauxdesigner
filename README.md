@@ -13,7 +13,7 @@ Since its growing popularity in the late 2000s, UX has been adopted by different
 
 #
 
-## For example, at [Airbnb],(https://www.airbnb.com/) “Experience Designers” have backgrounds in interaction, visual and service design:
+## For example, at [Airbnb](https://www.airbnb.com/), “Experience Designers” have backgrounds in interaction, visual and service design:
 > "What we design goes beyond the screen and impacts all aspects of our users' journey (hence the name Experience Design). Sometimes we design small adjustments to a page or flow, sometimes we’re designing wholly new product experiences. Both have a big impact. We are all hybrids and we work at all stages of the product process—from concept to launch—in collaboration with researchers, product managers and engineers. The work is challenging. It stretches us to think online and offline and embrace all cultures." <br><br>— Katie Dill, UX Designer from Airbnb, 2015.
 
 #

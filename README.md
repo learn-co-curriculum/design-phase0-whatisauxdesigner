@@ -45,17 +45,14 @@ Since its growing popularity in the late 2000s, UX has been adopted by different
 To get a better sense of UX design as it relates to the program at Flatiron School (powered by Designation), check out a few interviews from our alumni:
 
 ## [From banking to UX design.](https://designation.io/blog/qui-dixon)
-by [Qui Dixon](https://www.quidixon.com/) \(Basil cohort grad)\, [BSwift](https://www.bswift.com/) 
-(5 min read)
+(5 min read) by [Qui Dixon](https://www.quidixon.com/) \(Basil cohort grad)\, [BSwift](https://www.bswift.com/) 
 
 ## [Former video editor to turned UX designer.](https://designation.io/blog/kyle-howard) 
-by [Kyle Howard](http://kylehoward.design/) \(Yucca cohort grad)\, [Bose](https://www.bose.com/en_us/index.html) 
-(5 min read)
+(5 min read) by [Kyle Howard](http://kylehoward.design/) \(Yucca cohort grad)\, [Bose](https://www.bose.com/en_us/index.html) 
 
 
 ## [Coffee meets UX design.](https://designation.io/blog/interview-with-anabelle-zee) 
-by [Anabelle Zee](http://anabellezee.com/) \(Obsidian cohort grad)\, [Pandora](https://www.pandora.com/) 
-(5 min read)
+(5 min read) by [Anabelle Zee](http://anabellezee.com/) \(Obsidian cohort grad)\, [Pandora](https://www.pandora.com/) 
 <br><br>
 
 

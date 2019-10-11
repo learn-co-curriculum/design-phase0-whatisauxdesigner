@@ -105,7 +105,7 @@ by 15 UX designers (10 min read) <br>Itâ€™s important to start by saying thereâ€
 UX Mastery has a [very comprehensive list](https://uxmastery.com/resources/tools/) list of tools categorized by task or user experience need. 
 
 
- # Books
+# Books
  <hr color="#eaecef">
 
 - [Lean UX](https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652)
